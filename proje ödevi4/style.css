@@ -17,14 +17,14 @@
 }
 
 .icon-user::before {
-    content: "\f007"; /* Unicode karakteri */
+    content: "\f007"; 
 }
 
 .icon-building::before {
-    content: "\f1ad"; /* Unicode karakteri */
+    content: "\f1ad"; 
 }
 
 .icon-location-dot::before {
-    content: "\f3c5"; /* Unicode karakteri */
+    content: "\f3c5"; 
 }
 
